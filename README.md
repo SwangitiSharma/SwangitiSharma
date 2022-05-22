@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SwangitiSharma
 - 🌱 I’m currently learning Python
-- 📫 reach me @swangitisharmas@gmail.com 
 
 <!---
 SwangitiSharma/SwangitiSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
